@@ -103,3 +103,5 @@ function checkUser(user:User):string {
         return 'User role unknown'
     }
 }
+
+
